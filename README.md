@@ -20,10 +20,6 @@
 ~~deadline~~<br>
 * 1번
 * 2번
--123
-  -123
-  -123
-    -123
 [네이버](https://www.naver.com) <br>
 
 |Header|Description|
@@ -33,6 +29,9 @@
 |Cell1|Cell2|
 |Cell1|Cell2|
 
+- 123
+- 123
+    -123
 <br>
 
 ```
