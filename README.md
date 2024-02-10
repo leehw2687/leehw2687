@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20LEEHW1234%20&&animation=scaleIn)
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=LEEHW1234&show_icons=true&theme=radical)](https://github.com/LEEHW1234)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=leehw2687&show_icons=true&theme=radical)](https://github.com/leehw2687)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEHW1234&layout=compact)](https://github.com/LEEHW1234/githubreadme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEHW1234&layout=compact)](https://github.com/leehw2687/githubreadme-stats)
 
 <!--![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
 ![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
