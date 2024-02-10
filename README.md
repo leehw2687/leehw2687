@@ -75,7 +75,7 @@
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=leehw2687&show_icons=true&theme=radical)](https://github.com/leehw2687)
 
 ##  **🏅My Used Languages🏅** 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEHW1234&layout=compact)](https://github.com/leehw2687/githubreadme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehw2687&layout=compact)](https://github.com/leehw2687/githubreadme-stats)
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
 
 
