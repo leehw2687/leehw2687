@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20leehw2687%20%20&height=200&fontSize=90&fontColor=ffffff)
 
 ## 💻 **Once I've used** 💻
-<table style="border: 2px;">
+<table style="border: 2px;" align="center">
   <tr>
     <td>Languages</td>
     <td>
