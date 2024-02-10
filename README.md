@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20leehw2687%20%20&height=200&fontSize=90&fontColor=ffffff)
 
 ## 💻 **Once I've used** 💻
-<table style="border: 2px;" align="center">
+<table style="border: 2px;">
   <tr>
     <td>Languages</td>
     <td>
@@ -76,7 +76,6 @@
 
 ##  **🏅My Used Languages🏅** 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEHW1234&layout=compact)](https://github.com/leehw2687/githubreadme-stats)
-
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
 
 
