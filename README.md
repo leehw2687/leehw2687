@@ -7,7 +7,6 @@
     <td>Languages</td>
     <td>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"> 
     </td>
   </tr>
   <tr>
@@ -16,7 +15,6 @@
       <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
       <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
       <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-      [//]: # <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
       <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
     </td>
   </tr>
@@ -60,7 +58,6 @@
    <tr>
     <td>Communication</td>
     <td>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
       <img src="https://img.shields.io/badge/StarUML-7D57C1?style=flat-square&logo=staruml&logoColor=white">
       <img src="https://img.shields.io/badge/draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white">
       <img src="https://img.shields.io/badge/Google Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white">
