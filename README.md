@@ -56,7 +56,6 @@
    <tr>
     <td>Communication</td>
     <td>
-      <img src="https://img.shields.io/badge/StarUML-7D57C1?style=flat-square&logo=staruml&logoColor=white">
       <img src="https://img.shields.io/badge/draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white">
       <img src="https://img.shields.io/badge/Google Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
