@@ -53,15 +53,6 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
     </td>
   </tr>
-   <tr>
-    <td>Communication</td>
-    <td>
-      <img src="https://img.shields.io/badge/draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white">
-      <img src="https://img.shields.io/badge/Google Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white">
-      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"> 
-    </td>
-  </tr>
 </table>
 
 ---
